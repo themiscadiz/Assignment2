@@ -10,6 +10,7 @@ In this project I go through the design process of redesign a Swiss poster and c
 
 For this assignment I used one of the example provide in the assignment. I chose the poster avobe because its clear grid design that let me explore more the attribute of flex on css and have a better understanding how to manipulate it in to a responsive design. In this assignment I explored for the first timeanimation
 on css and some functions in javascript.
+
 <!-- It is essential to describe how to set up your project -->
 ## Setup
 For redesign a poster you can setup using: 
@@ -82,8 +83,13 @@ For a project in progress it is possible to host it on [Glitch](https://glitch.c
 <!-- For your assignments you might consider  -->
 # Notes & Process
 For this assignment I decided to use one or the design suggested in the assignment post.
+
 ![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/1.png?raw=true)
+
 The clear hierarchy and grid, helps me to understand better the process to understand better about layout organization. For the redesign exercise, I started from creating a Style Guide of the swiss poster:
+
+**Website about New York**
+In the theme of new york I decided to work in this assignmentr with Loisaida. It is was was call for newyoricans the Lower East Side neiborghood. This neighborhood has a rich history of social activism for the newyorican community, specially in the 60's, 70's and 80's. In this redesign website web document that remembrance their participants and its contrubution.
 
 **Style guide of Swiss Poster**
 
@@ -100,11 +106,44 @@ Altough I tried to exacly find  the font used in this poster. I wasn't able to g
 Sketch helps me to rapidly obser the layout of the poster and how approach the redesign to website.
 ![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/17.png?raw=true)
 
-
 **Wireframes**  
+This step help me to part from the style guide of the poster to a make grid decision about the new redesign. For the wireframe and other design decision I used Figma. Altough was the first time using this software, it was friendly to understand and follow.
+
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/15.png?raw=true)
 
 **Design specifications**
+For a more detail design specification I made a style guide with new design.
 
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/16.png?raw=true)
+
+**Html and css**
+To have a fast feedback about the html and css development I used Glitch. For better understanding of the developers practice I started my code from las class live code example. Although through the process I made a lot of modifications, this first approach helps me as a guide line in the html and css practices.
+
+In this sequence of images you can see the process from the first html modification to the style of the layout. This part took me a lot of effor to be able to understand a little bit better how to work with grisd and responsive layouts.
+
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/7.png?raw=true)
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/8.png?raw=true)
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/9.png?raw=true)
+
+The main two columns on the website change into one column, one row design. 
+The navegation is 4 item list aside of the title "Lower East Side". In the small responsive version this navegation goes below the title.
+This flow is use in the other rows section in the website.
+
+**Animation on css**
+
+**Integration with javascript**
+Understanding how to imprement javascript was challenging for this assigment. Altough since last semester i have use p5.js, I don't have any experience using js outside p5.
+however, I was able to use to js function in this website. 
+. When one of the image upload, open a window who welcome the user to the website.
+
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/13.png?raw=true)
+
+
+. When user mouse clicked "Loisaida" in the navegation, open a window with a definition od the word "loisaida".
+
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/14.png?raw=true)
+
+Although I am not sure what it is a better practice,I started the <script> in html, I moved the function into another file.
 
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
