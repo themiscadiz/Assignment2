@@ -81,12 +81,40 @@ For a project in progress it is possible to host it on [Glitch](https://glitch.c
 
 <!-- For your assignments you might consider  -->
 # Notes & Process
+For this assignment I decided to use one or the design suggested in the assignment post.
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/1.png?raw=true)
+The clear hierarchy and grid, helps me to understand better the process to understand better about layout organization. For the redesign exercise, I started from creating a Style Guide of the swiss poster:
+
+**Style guide of Swiss Poster**
+
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/4.png?raw=true)
+
+Altough I tried to exacly find  the font used in this poster. I wasn't able to get with  a precise answer. I made a little bit of research trying to figure it out the type font. but the shape of the **G** didn't match with any swiss type style that i looked for. The close it fonts are the Helvetiva and Univers. However this small deep in to typograghy helps me to better know about swiss typography styles.
+
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/2.png?raw=true)
 
 <!-- How you built this project - Include images, gifs, and notes here -->
 ## Process & Documentation
 
+**Sketching**
+Sketch helps me to rapidly obser the layout of the poster and how approach the redesign to website.
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/17.png?raw=true)
+
+
+**Wireframes**  
+
+**Design specifications**
+
+
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
+**Figuring out font-family of the swiss poster.**
+Through the process of creating this
+
+**Understanding how to manipulate or use javascript**
+
+**Animation in css**
+
 
 <!-- Any questions you have -->
 ## Questions
