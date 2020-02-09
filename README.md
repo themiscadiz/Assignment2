@@ -119,7 +119,7 @@ For a more detailed design specification I made a style guide with new design.
 **Html and css**
 To have a fast feedback about the html and css development I used Glitch. To better understand the developers practice I started my code from last class' live code example. Although throughout the process I made a lot of modifications, this first approach gave me a guideline for html and css practices.
 
-In this sequence of images you can see the process from the first html modification to the style of the layout. This part took me a lot of effort to be able to understand a little bit better how to work with grisd and responsive layouts.
+In this sequence of images you can see the process from the first html modification to the style of the layout. This part took me a lot of effort to be able to understand a little bit better how to work with grids and responsive layouts.
 
 ![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/7.png?raw=true)
 ![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/8.png?raw=true)
