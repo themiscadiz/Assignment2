@@ -131,15 +131,23 @@ This flow is use in the other rows section in the website.
 
 **Animation on css**
 
+This is my very first time that I tried in css. In a infinite loop I move the title back and foward, changing the color of the title, and breaking the layout. I had some difficulties using this feature because the movement affect the clickability of the navigation. 
+At first I move the animation side to side. Although the title wasn't above the navigation. it is affect the clicability of it. I changed the animation from top to bottom, and in this case affect the navigation when use a smaller screen width. I tried different option but I didn't figure it out how to debbug it.
+
+![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/giphy1.gif?raw=true)
+
+
 **Integration with javascript**
 Understanding how to imprement javascript was challenging for this assigment. Altough since last semester i have use p5.js, I don't have any experience using js outside p5.
-however, I was able to use to js function in this website. 
-. When one of the image upload, open a window who welcome the user to the website.
+However, I was able to use to js function such as <code>onload</code>, and <code>click</code> in this website. 
+
+   * When one of the image upload, open a window who welcome the user to the website.
 
 ![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/13.png?raw=true)
 
 
-. When user mouse clicked "Loisaida" in the navegation, open a window with a definition od the word "loisaida".
+   * When user mouse clicked "Loisaida" in the navegation, open a window with a definition od the word "loisaida".
+   
 
 ![image](https://github.com/themiscadiz/Assignment2/blob/master/Images%20from%20Documentation/14.png?raw=true)
 
@@ -147,19 +155,18 @@ Although I am not sure what it is a better practice,I started the <script> in ht
 
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
-**Figuring out font-family of the swiss poster.**
-Through the process of creating this
 
-**Understanding how to manipulate or use javascript**
+Here I resumed some of the  challenges that I had compliting this assigment and detailed above.
 
-**Animation in css**
+*Figuring out font-family of the swiss poster.
+*Understanding how to manipulate or use javascript.
+*Animation in css
 
 
 <!-- Any questions you have -->
-## Questions
+<!-- ## Questions -->
 
 <!-- References for resources and inspiration -->
 ## References
 
-* Author First Name, Author Last Name. [Link]()
-* Author First Name, Author Last Name. [Link]()
+* Loisaida -- Wikipedia [https://en.wikipedia.org/wiki/Alphabet_City,_Manhattan#Loisaida]()
